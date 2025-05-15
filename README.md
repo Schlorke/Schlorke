@@ -1,4 +1,4 @@
-<a href="https://harryschlorke.com" target="_blank" rel="noopener noreferrer">
+<a href="https://harryschlorke.com" target="_blank">
   <img src="./Harry-Banner.png" alt="GitHub Banner" width="100%" />
 </a>
 
