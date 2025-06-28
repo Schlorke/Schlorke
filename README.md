@@ -42,6 +42,9 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
     </td>
   </tr>
 
+  <!-- Separador -->
+  <tr><td colspan="2"><br/></td></tr>
+
   <!-- Frontend & Backend -->
   <tr>
     <th align="left">🎨 Frontend</th>
@@ -82,6 +85,9 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
     <td></td>
   </tr>
 
+  <!-- Separador -->
+  <tr><td colspan="2"><br/></td></tr>
+
   <!-- Banco de Dados & DevOps -->
   <tr>
     <th align="left">🗃️ Banco de Dados</th>
@@ -117,6 +123,9 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
       <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
     </td>
   </tr>
+
+  <!-- Separador -->
+  <tr><td colspan="2"><br/></td></tr>
 
   <!-- Ferramentas -->
   <tr>
