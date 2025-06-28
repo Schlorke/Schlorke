@@ -122,10 +122,18 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
 
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Schlorke&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Schlorke&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Schlorke&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Schlorke&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Schlorke&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schlorke&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Schlorke&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
