@@ -29,6 +29,7 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 <h2>🚀 Tech Stack</h2>
 
 <table>
+
   <!-- Linguagens -->
   <tr>
     <th colspan="2" align="left">🧠 Linguagens</th>
@@ -41,7 +42,7 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
     </td>
   </tr>
 
-  <!-- Frontend e Backend -->
+  <!-- Frontend & Backend -->
   <tr>
     <th align="left">🎨 Frontend</th>
     <th align="left">⚙️ Backend & APIs</th>
@@ -80,6 +81,60 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
     <td><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/></td>
     <td></td>
   </tr>
+
+  <!-- Banco de Dados & DevOps -->
+  <tr>
+    <th align="left">🗃️ Banco de Dados</th>
+    <th align="left">🚀 DevOps / Deploy</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+    </td>
+  </tr>
+
+  <!-- Ferramentas -->
+  <tr>
+    <th colspan="2" align="left">🧰 Ferramentas</th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+      <img src="https://img.shields.io/badge/eslint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
+      <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black"/>
+    </td>
+  </tr>
+
 </table>
 
 
