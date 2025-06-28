@@ -27,8 +27,6 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
 # 💻 Tech Stack:
 
-<h2>🚀 Tech Stack</h2>
-
 <table>
 
   <!-- Linguagens -->
