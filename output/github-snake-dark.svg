@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="717" height="317" viewBox="0 0 717 317">
+  <style>
+    .grid-bg { fill: #0d1117; }
+    .grid-line { stroke: #161b22; stroke-width: 1; }
+    .text { fill: #58a6ff; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 14px; }
+    .subtext { fill: #8b949e; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 12px; }
+  </style>
+  <rect class="grid-bg" width="717" height="317"/>
+  <!-- Simulação de grid de contribuições -->
+  <g opacity="0.3">
+    <rect x="50" y="50" width="10" height="10" fill="#0e4429"/>
+    <rect x="65" y="50" width="10" height="10" fill="#006d32"/>
+    <rect x="80" y="50" width="10" height="10" fill="#26a641"/>
+    <rect x="95" y="50" width="10" height="10" fill="#39d353"/>
+  </g>
+  <text x="358" y="150" class="text" text-anchor="middle">GitHub Contributions Snake</text>
+  <text x="358" y="170" class="subtext" text-anchor="middle">Será gerado automaticamente pelo GitHub Actions</text>
+  <text x="358" y="190" class="subtext" text-anchor="middle">Baseado nas suas contribuições reais do GitHub</text>
+</svg>

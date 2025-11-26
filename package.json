@@ -1,0 +1,19 @@
+{
+  "name": "schlorke-profile",
+  "version": "1.0.0",
+  "description": "GitHub Profile README",
+  "scripts": {
+    "lint:md": "markdownlint README.md --fix",
+    "format:md": "prettier --write README.md",
+    "spell:check": "cspell \"**/*.md\""
+  },
+  "keywords": ["github", "profile", "readme"],
+  "author": "Harry Schlorke",
+  "license": "MIT",
+  "devDependencies": {
+    "markdownlint-cli": "^0.41.0",
+    "prettier": "^3.3.3",
+    "cspell": "^8.15.0"
+  }
+}
+
