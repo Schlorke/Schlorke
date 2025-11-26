@@ -125,12 +125,11 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schlorke&theme=dark" alt="GitHub Stats" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schlorke&theme=tokyonight" alt="GitHub Stats" />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Schlorke&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&border=EB5454&stroke=EB5454&ring=EB5454&fire=EB5454&currStreakNum=EB5454&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=EB5454&dates=EB5454&excludeDaysLabel=EB5454&background=45%2CEBEBEB%2CEBEBEB" alt="GitHub Streak Stats" />
+<img height="180em" src="https://streak-stats.demolab.com?user=Schlorke&theme=tokyonight&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&border=00D9FF&stroke=00D9FF&ring=8B5CF6&fire=00D9FF&currStreakNum=00D9FF&sideNums=8B5CF6&currStreakLabel=00D9FF&sideLabels=8B5CF6&dates=06B6D4&excludeDaysLabel=64748B&background=0D1117%2C1A1B3E%2C2D1B69" alt="GitHub Streak Stats" />
 
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schlorke&theme=dark" alt="Top Languages" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schlorke&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
