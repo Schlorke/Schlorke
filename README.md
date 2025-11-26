@@ -4,10 +4,10 @@
 
 # Hello World! I'm Harry, just a random Full-Stack Developer👋
 
-🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com) <br>
-🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
-💻 Desenvolvendo projetos digitais com foco em performance, produto e experiência<br>
-🎨 Apaixonado por design funcional, microinterações e soluções que encantam e convertem<br>
+🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com) <br/>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br/>
+💻 Desenvolvendo projetos digitais com foco em performance, produto e experiência<br/>
+🎨 Apaixonado por design funcional, microinterações e soluções que encantam e convertem<br/>
 🎥 Criador de conteúdo e mentor de projetos web em andamento
 
 # 💡About Me
@@ -141,15 +141,11 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
 _Uma jornada visual através das minhas contribuições de código, onde cada quadrado representa um dia de dedicação ao código, criatividade e aprendizado contínuo._
 
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake.svg" />
 </picture>
-
-<br/>
 
 <sup>✨ Esta animação é gerada automaticamente a partir do meu gráfico de contribuições do GitHub usando [snk](https://github.com/Platane/snk) - atualizando diariamente para refletir minha atividade de código em tempo real!</sup>
 
