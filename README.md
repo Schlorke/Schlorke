@@ -158,9 +158,9 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 _Uma jornada visual através das minhas contribuições de código, onde cada quadrado representa um dia de dedicação ao código, criatividade e aprendizado contínuo._
 <picture>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake-dark.svg" />
 </picture>
 
 <sup>✨ Esta animação é gerada automaticamente a partir do meu gráfico de contribuições do GitHub usando [snk](https://github.com/Platane/snk) - atualizando diariamente para refletir minha atividade de código em tempo real!</sup>
