@@ -4,10 +4,10 @@
 
 # Hello World! I'm Harry, just a random Full-Stack Developer👋
 
-🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com)
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvendo projetos digitais com foco em performance, produto e experiência
-🎨 Apaixonado por design funcional, microinterações e soluções que encantam e convertem
+🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com) <br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
+💻 Desenvolvendo projetos digitais com foco em performance, produto e experiência<br>
+🎨 Apaixonado por design funcional, microinterações e soluções que encantam e convertem<br>
 🎥 Criador de conteúdo e mentor de projetos web em andamento
 
 # 💡About Me
@@ -131,15 +131,13 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Schlorke&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Schlorke&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&title=-Issues)
 
 ---
 
 ## 🐍 Minhas Contribuições como um Jogo da Cobrinha
 
 <div align="center">
-
-### _"Cada commit conta uma história. Veja minhas contribuições do GitHub ganharem vida como um jogo da cobrinha animado!"_ 🎮
 
 _Uma jornada visual através das minhas contribuições de código, onde cada quadrado representa um dia de dedicação ao código, criatividade e aprendizado contínuo._
 
