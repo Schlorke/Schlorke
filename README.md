@@ -125,30 +125,7 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schlorke&theme=monokai" alt="Profile Details" />
-    </td>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schlorke&theme=monokai" alt="Top Languages" />
-    </td>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Schlorke&theme=monokai" alt="Most Commit Language" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schlorke&theme=monokai" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Schlorke&theme=monokai&utcOffset=8" alt="Productive Time" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Schlorke&theme=tokyonight&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&border=00D9FF&stroke=00D9FF&ring=8B5CF6&fire=00D9FF&currStreakNum=00D9FF&sideNums=8B5CF6&currStreakLabel=00D9FF&sideLabels=8B5CF6&dates=06B6D4&excludeDaysLabel=64748B&background=0D1117%2C1A1B3E%2C2D1B69" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schlorke&theme=monokai" alt="Profile Details" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schlorke&theme=monokai" alt="Top Languages" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Schlorke&theme=monokai" alt="Most Commit Language" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schlorke&theme=monokai" alt="GitHub Stats" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Schlorke&theme=monokai&utcOffset=8" alt="Productive Time" />
 
 </div>
 
