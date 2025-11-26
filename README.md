@@ -33,7 +33,7 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
   <!-- Linguagens -->
   <tr>
-    <th colspan="2" align="left">🧠 Linguagens</th>
+    <th colspan="2" align="center">🧠 Linguagens</th>
   </tr>
   <tr>
     <td colspan="2">
@@ -49,8 +49,8 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 <table align="center">
   <!-- Frontend & Backend -->
   <tr>
-    <th align="left">🎨 Frontend</th>
-    <th align="left">⚙️ Backend & APIs</th>
+    <th align="center">🎨 Frontend</th>
+    <th align="center">⚙️ Backend & APIs</th>
   </tr>
   <tr>
     <td>
@@ -80,8 +80,8 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
   <!-- Banco de Dados & DevOps -->
   <tr>
-    <th align="left">🗃️ Banco de Dados</th>
-    <th align="left">🚀 DevOps / Deploy</th>
+    <th align="center">🗃️ Banco de Dados</th>
+    <th align="center">🚀 DevOps / Deploy</th>
   </tr>
   <tr>
     <td>
@@ -108,7 +108,7 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 <table align="center">
   <!-- Ferramentas -->
   <tr>
-    <th colspan="2" align="left">🧰 Ferramentas</th>
+    <th colspan="2" align="center">🧰 Ferramentas</th>
   </tr>
   <tr>
     <td colspan="2">
