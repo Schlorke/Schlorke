@@ -30,7 +30,7 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
 </div>
 
-<table align="center">
+<table align="center" width="100%">
 
   <!-- Linguagens -->
   <tr>
@@ -47,14 +47,14 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
   <!-- Separador -->
   <tr><td colspan="2"><br/></td></tr>
 
-<table align="center">
+<table align="center" width="100%">
   <!-- Frontend & Backend -->
   <tr>
-    <th align="center">🎨 Frontend</th>
-    <th align="center">⚙️ Backend & APIs</th>
+    <th align="center" width="50%">🎨 Frontend</th>
+    <th align="center" width="50%">⚙️ Backend & APIs</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -63,7 +63,7 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
       <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
       <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
@@ -77,15 +77,15 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
   <!-- Separador -->
   <tr><td colspan="2"><br/></td></tr>
 
-<table align="center">
+<table align="center" width="100%">
 
   <!-- Banco de Dados & DevOps -->
   <tr>
-    <th align="center">🗃️ Banco de Dados</th>
-    <th align="center">🚀 DevOps / Deploy</th>
+    <th align="center" width="50%">🗃️ Banco de Dados</th>
+    <th align="center" width="50%">🚀 DevOps / Deploy</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -93,7 +93,7 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
       <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -106,7 +106,7 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
   <!-- Separador -->
   <tr><td colspan="2"><br/></td></tr>
 
-<table align="center">
+<table align="center" width="100%">
   <!-- Ferramentas -->
   <tr>
     <th colspan="2" align="center">🧰 Ferramentas</th>
