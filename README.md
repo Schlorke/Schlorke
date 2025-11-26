@@ -23,7 +23,11 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/harryschlorke) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/harryschlorke) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HCSchlorke) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harryschlorke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harry-schlorke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarrySchlorke) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@TI.harryschlorke) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ti@harryschlorke.com)
 
+<div align="center">
+
 # 💻 Tech Stack
+
+</div>
 
 <table align="center">
 
@@ -121,7 +125,11 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
 </table>
 
+<div align="center">
+
 # 📊 GitHub Stats
+
+</div>
 
 <div align="center">
 
@@ -129,19 +137,27 @@ Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
 </div>
 
+<div align="center">
+
 ## 🏆 GitHub Trophies
+
+</div>
 
 ![](https://github-profile-trophy.vercel.app/?username=Schlorke&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&title=-Issues)
 
 ---
 
+<div align="center">
+
 ## 🐍 Minhas Contribuições como um Jogo da Cobrinha
+
+</div>
 
 <div align="center">
 
 _Uma jornada visual através das minhas contribuições de código, onde cada quadrado representa um dia de dedicação ao código, criatividade e aprendizado contínuo._
-
 <picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake.svg" />
