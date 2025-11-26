@@ -17,34 +17,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Generate GitHub Snake - Default Theme
+      - name: Generate GitHub Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Schlorke
           outputs: |
             output/github-snake.svg
-
-      - name: Generate GitHub Snake - Dark Theme
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Schlorke
-          outputs: |
             output/github-snake-dark.svg?palette=github-dark
-
-      - name: Generate GitHub Snake - Purple Theme (Creative)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Schlorke
-          outputs: |
-            output/github-snake-purple.svg?color_snake=#9d4edd&color_dots=#161b22,#1a0033,#330066,#6600cc,#9d4edd&color_background=#0d1117
-
-      - name: Generate GitHub Snake - Neon Theme (Creative)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Schlorke
-          outputs: |
-            output/github-snake-neon.svg?color_snake=#00f5ff&color_dots=#161b22,#003d4d,#006699,#00ccff,#00f5ff
 
       - name: Commit and push
         run: |

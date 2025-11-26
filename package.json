@@ -3,11 +3,17 @@
   "version": "1.0.0",
   "description": "GitHub Profile README",
   "scripts": {
+    "dev": "echo '💡 Para ver o preview do README, use o preview do GitHub ou do editor (Ctrl+Shift+V no Cursor/VS Code)'",
+    "preview": "echo '💡 Abra README.md e pressione Ctrl+Shift+V para preview no editor'",
     "lint:md": "markdownlint README.md --fix",
     "format:md": "prettier --write README.md",
     "spell:check": "cspell \"**/*.md\""
   },
-  "keywords": ["github", "profile", "readme"],
+  "keywords": [
+    "github",
+    "profile",
+    "readme"
+  ],
   "author": "Harry Schlorke",
   "license": "MIT",
   "devDependencies": {
@@ -16,4 +22,3 @@
     "cspell": "^8.15.0"
   }
 }
-
