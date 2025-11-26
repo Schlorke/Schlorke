@@ -152,9 +152,9 @@ _Uma jornada visual através das minhas contribuições de código, onde cada qu
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Schlorke/Schlorke/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Schlorke/Schlorke/main/output/github-snake.svg" />
 </picture>
 
 <br/>
