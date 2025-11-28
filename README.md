@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="400" valign="middle">
-      <img src="Harry_Schlorke.gif" alt="GIF" width="400" />
+      <img src="Harry_Schlorke.gif" alt="GIF" width="350" />
     </td>
     <td valign="left">
       <p>• 🌐 <b>Acesse meu portfólio: <a href="https://harryschlorke.com">harryschlorke.com</a></b></p>
