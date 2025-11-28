@@ -4,29 +4,27 @@
 
 # Hello World! I'm Harry, a Full-Stack Developer👋
 
-
 <a href="https://harryschlorke.com" target="_blank">
-<img
-    src="Harry_Schlorke.gif"
-    alt="GIF"
-    width="315"
-    align="left"
-  />
+<img src="Harry_Schlorke.gif" alt="GIF" width="315" align="left" />
 </a>
 
-<h4 align="left">
+<h4>
 
-&nbsp;&nbsp;&nbsp; 🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com)<br/>
 
-&nbsp;&nbsp;&nbsp; 🧑‍💻 Desenvolvedor de Software focado em produto, UI e UX.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💻 Desenvolvedor de Software focado em produto, UI e UX.<br/>
 
-&nbsp;&nbsp;&nbsp; 💻 Criador de sistemas com interfaces refinadas e escaláveis.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 💻 Criador de sistemas com interfaces refinadas e escaláveis.<br/>
 
-&nbsp;&nbsp;&nbsp; 👨‍🏫 Criador de conteúdo técnico e mentor de projetos web.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 👨‍🏫 Criador de conteúdo técnico e mentor de projetos web.<br/>
 
-&nbsp;&nbsp;&nbsp; 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+&nbsp;&nbsp;&nbsp;&nbsp; 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 
 </h4>
+
+<br clear="left" />
+
+<br clear="left" />
 <br clear="left" />
 Sou o arquiteto por trás de interfaces que influenciam decisões, sistemas que escalam e experiências digitais que marcam presença.
 Mais que escrever código, <b>entrego soluções que funcionam, encantam e geram resultado</b>.
@@ -36,7 +34,6 @@ Meu diferencial não está só na técnica, mas na estratégia: atuo com visão 
 <br/>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/harryschlorke) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/harryschlorke) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HCSchlorke) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harryschlorke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harry-schlorke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarrySchlorke) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@TI.harryschlorke) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ti@harryschlorke.com)
-
 
 <br/>
 <div align="center">
