@@ -30,7 +30,7 @@
 </h4>
 <br clear="left" />
 Sou o arquiteto por trás de interfaces que influenciam decisões, sistemas que escalam e experiências digitais que marcam presença.
-Mais que escrever código, **entrego soluções que funcionam, encantam e geram resultado**.
+Mais que escrever código, <b>entrego soluções que funcionam, encantam e geram resultado</b>.
 Meu diferencial não está só na técnica, mas na estratégia: atuo com visão de produto, foco em performance e estética refinada.<br/>
 
 📩 **Vamos criar algo grandioso?** Entre em contato ou acompanhe meu trabalho nas redes abaixo:
