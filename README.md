@@ -31,12 +31,9 @@
 <br clear="left" />
 Sou o arquiteto por trás de interfaces que influenciam decisões, sistemas que escalam e experiências digitais que marcam presença.
 Mais que escrever código, **entrego soluções que funcionam, encantam e geram resultado**.
-Meu diferencial não está só na técnica, mas na estratégia: atuo com visão de produto, foco em performance e estética refinada.
+Meu diferencial não está só na técnica, mas na estratégia: atuo com visão de produto, foco em performance e estética refinada.<br/>
 
-&nbsp;
-
-📩 **Vamos criar algo grandioso?**
-Entre em contato ou acompanhe meu trabalho nas redes abaixo:
+📩 **Vamos criar algo grandioso?** Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 
 ## 🌐 Socials
 
