@@ -5,8 +5,11 @@
 # Hello World! I'm Harry, a Full-Stack Developer👋
 
 <a href="https://harryschlorke.com" target="_blank">
-<img src="Harry_Schlorke.gif" alt="GIF" width="314" align="left" />
+  
+  <img src="Harry_Schlorke.gif" alt="GIF" width="315" align="left"/>
+
 </a>
+  
 <h4>
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com)<br/>
