@@ -7,13 +7,14 @@
 
 <div align="left">
 
+<a href="https://harryschlorke.com" target="_blank">
 <img
     src="Harry_Schlorke.gif"
     alt="GIF"
     width="315"
     align="left"
-    href="https://harryschlorke.com"
   />
+</a>
 
 </div>
 
