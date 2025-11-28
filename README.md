@@ -15,11 +15,11 @@
 
 </div>
 
-<div align="left">
+<div align="left" style="font-size: 1.05em;">
 
 <br/>
 
-<b>&nbsp;&nbsp; 🌐 Acesse meu portfólio: harryschlorke.com<br/>
+&nbsp;&nbsp; <b>🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com)<br/>
 
 &nbsp;&nbsp; 🧑‍💻 Desenvolvedor de Software focado em produto, UI e UX.<br/>
 
