@@ -9,7 +9,7 @@
 <img
     src="Harry_Schlorke.gif"
     alt="GIF"
-    width="350"
+    width="425"
     align="left"
   />
 
@@ -17,18 +17,17 @@
 
 <div align="left">
 
-<b>
+<br/>
 
-&nbsp;• 🌐 Acesse meu portfólio: harryschlorke.com<br/>
+<b>&nbsp;&nbsp;• 🌐 Acesse meu portfólio: harryschlorke.com<br/>
 
-&nbsp;• 🧑‍💻 Desenvolvedor de Software focado em produto, UI e UX.<br/>
+&nbsp;&nbsp;• 🧑‍💻 Desenvolvedor de Software focado em produto, UI e UX.<br/>
 
-&nbsp;• 🏗️ Criador de sistemas com interfaces refinadas e escaláveis.<br/>
+&nbsp;&nbsp;• 🏗️ Criador de sistemas com interfaces refinadas e escaláveis.<br/>
 
-&nbsp;• 👨‍🏫 Criador de conteúdo técnico e mentor de projetos web.<br/>
+&nbsp;&nbsp;• 👨‍🏫 Criador de conteúdo técnico e mentor de projetos web.<br/>
 
-&nbsp;• 🎓 Graduando em Análise e Desenvolvimento de Sistemas.<br/>
-</b>
+&nbsp;&nbsp;• 🎓 Graduando em Análise e Desenvolvimento de Sistemas.</b>
 
 </div>
 
