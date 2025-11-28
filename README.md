@@ -2,18 +2,22 @@
   <img src="Harry-Banner.png" alt="GitHub Banner" width="100%" />
 </a>
 
-# Hello World! I'm Harry, just a random Full-Stack Developer👋
+# Hello World! I'm Harry, a Full-Stack Developer👋
 
-<div>
-  <img align="right" src="Harry_Schlorke.gif" alt="GIF" width="300" />
-
-• 🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com) <br/>
-• 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br/>
-• 💻 Desenvolvendo projetos digitais com foco em performance, produto e experiência<br/>
-• 🎨 Apaixonado por design funcional, microinterações e soluções que encantam e convertem<br/>
-• 🎥 Criador de conteúdo e mentor de projetos web em andamento
-
-</div>
+<table>
+  <tr>
+    <td width="400" valign="middle">
+      <img src="Harry_Schlorke.gif" alt="GIF" width="400" />
+    </td>
+    <td valign="left">
+      <p>• 🌐 <b>Acesse meu portfólio: <a href="https://harryschlorke.com">harryschlorke.com</a></b></p>
+      <p>• 🧑‍💻 <b>Desenvolvedor de Software focado em produto, UI e UX.</b></p>
+      <p>• 🏗️ <b>Criador de sistemas com interfaces refinadas e escaláveis</b></p>
+      <p>• 👨‍🏫 <b>Criador de conteúdo técnico e mentor de projetos web.</b></p>
+      <p>• 🎓 <b>Graduando em Análise e Desenvolvimento de Sistemas.</b></p>
+    </td>
+  </tr>
+</table>
 
 # 💡About Me
 
