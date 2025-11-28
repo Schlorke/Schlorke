@@ -15,11 +15,9 @@
 
 </div>
 
-<div align="left">
+<h3 align="left">
 
-<br/>
-
-<big><b>&nbsp;&nbsp; 🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com)<br/>
+&nbsp;&nbsp; 🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com)<br/>
 
 &nbsp;&nbsp; 🧑‍💻 Desenvolvedor de Software focado em produto, UI e UX.<br/>
 
@@ -27,9 +25,9 @@
 
 &nbsp;&nbsp; 👨‍🏫 Criador de conteúdo técnico e mentor de projetos web.<br/>
 
-&nbsp;&nbsp; 🎓 Graduando em Análise e Desenvolvimento de Sistemas.</b></big>
+&nbsp;&nbsp; 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 
-</div>
+</h3>
 
 <br clear="left" />
 
