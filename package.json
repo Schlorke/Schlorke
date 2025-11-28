@@ -1,10 +1,13 @@
 {
   "name": "schlorke-profile",
   "version": "1.0.0",
+  "type": "module",
   "description": "GitHub Profile README",
   "scripts": {
     "dev": "echo '💡 Para ver o preview do README, use o preview do GitHub ou do editor (Ctrl+Shift+V no Cursor/VS Code)'",
     "preview": "echo '💡 Abra README.md e pressione Ctrl+Shift+V para preview no editor'",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "lint:md": "markdownlint README.md --fix",
     "format:md": "prettier --write README.md",
     "spell:check": "cspell \"**/*.md\""
@@ -17,8 +20,10 @@
   "author": "Harry Schlorke",
   "license": "MIT",
   "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "cspell": "^8.15.0",
+    "eslint": "^9.39.1",
     "markdownlint-cli": "^0.41.0",
-    "prettier": "^3.3.3",
-    "cspell": "^8.15.0"
+    "prettier": "^3.3.3"
   }
 }
