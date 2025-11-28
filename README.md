@@ -5,8 +5,6 @@
 # Hello World! I'm Harry, a Full-Stack Developer👋
 
 
-<div align="left">
-
 <a href="https://harryschlorke.com" target="_blank">
 <img
     src="Harry_Schlorke.gif"
@@ -15,7 +13,6 @@
     align="left"
   />
 </a>
-
 </div>
 
 <h4 align="left">
