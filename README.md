@@ -12,6 +12,7 @@
     alt="GIF"
     width="315"
     align="left"
+    href="https://harryschlorke.com"
   />
 
 </div>
