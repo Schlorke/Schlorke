@@ -9,7 +9,7 @@
 <img
     src="Harry_Schlorke.gif"
     alt="GIF"
-    width="425"
+    width="400"
     align="left"
   />
 
