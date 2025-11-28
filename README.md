@@ -4,12 +4,12 @@
 
 # Hello World! I'm Harry, a Full-Stack Developer👋
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="400" valign="middle">
+    <td width="400" valign="middle" style="border: none;">
       <img src="Harry_Schlorke.gif" alt="GIF" width="350" />
     </td>
-    <td valign="left">
+    <td valign="left" style="border: none;">
       <p>• 🌐 <b>Acesse meu portfólio: <a href="https://harryschlorke.com">harryschlorke.com</a></b></p>
       <p>• 🧑‍💻 <b>Desenvolvedor de Software focado em produto, UI e UX.</b></p>
       <p>• 🏗️ <b>Criador de sistemas com interfaces refinadas e escaláveis</b></p>
