@@ -2,8 +2,8 @@
   <img src="Harry-Banner.png" alt="GitHub Banner" width="100%" />
 </a>
 
-# Hello World! I'm Harry, a Full-Stack Developer👋
-<br/>
+# Hello World! I'm Harry, a Full-Stack Developer👋<br/>
+
 <a href="https://harryschlorke.com" target="_blank">
 <img src="Harry_Schlorke.gif" alt="GIF" width="310" align="left" />
 </a>
