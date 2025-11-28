@@ -29,8 +29,7 @@
 
 </h4>
 
-
-
+&nbsp; 
 # 💡About Me
 
 Sou o arquiteto por trás de interfaces que influenciam decisões, sistemas que escalam e experiências digitais que marcam presença.
