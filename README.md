@@ -13,7 +13,6 @@
     align="left"
   />
 </a>
-</div>
 
 <h4 align="left">
 
