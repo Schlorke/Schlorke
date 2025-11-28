@@ -4,10 +4,8 @@
 
 # Hello World! I'm Harry, just a random Full-Stack Developer👋
 
-<table>
-<tbody>
-<tr>
-<td valign="top" width="60%">
+<div>
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5rNjBsZGVyZjRmMjNkejI4emE3cmgyMHZ2dXB6N2didGdpc3BwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dl0gaLbDsp0l44mpKS/giphy.gif" alt="GIF" width="300" />
 
 • 🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com) <br/>
 • 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br/>
@@ -15,15 +13,7 @@
 • 🎨 Apaixonado por design funcional, microinterações e soluções que encantam e convertem<br/>
 • 🎥 Criador de conteúdo e mentor de projetos web em andamento
 
-</td>
-<td valign="top" width="40%" align="right">
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5rNjBsZGVyZjRmMjNkejI4emE3cmgyMHZ2dXB6N2didGdpc3BwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dl0gaLbDsp0l44mpKS/giphy.gif" alt="GIF" width="300" />
-
-</td>
-</tr>
-</tbody>
-</table>
+</div>
 
 # 💡About Me
 
