@@ -22,7 +22,7 @@
 
 &nbsp;&nbsp;&nbsp; 🧑‍💻 Desenvolvedor de Software focado em produto, UI e UX.<br/>
 
-&nbsp;&nbsp;&nbsp; 🏗️ Criador de sistemas com interfaces refinadas e escaláveis.<br/>
+&nbsp;&nbsp;&nbsp; 💻 Criador de sistemas com interfaces refinadas e escaláveis.<br/>
 
 &nbsp;&nbsp;&nbsp; 👨‍🏫 Criador de conteúdo técnico e mentor de projetos web.<br/>
 
