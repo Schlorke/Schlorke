@@ -9,13 +9,13 @@
 <img
     src="Harry_Schlorke.gif"
     alt="GIF"
-    width="390"
+    width="380"
     align="left"
   />
 
 </div>
 
-<h4 align="left">
+<h3 align="left">
 
 &nbsp;&nbsp; 🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com)<br/>
 
@@ -27,7 +27,7 @@
 
 &nbsp;&nbsp; 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 
-</h4>
+</h3>
 
 <br clear="left" />
 
