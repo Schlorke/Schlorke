@@ -20,6 +20,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; 🎓 Graduando em Análise e Desenvolvimento de Sistemas.</h4>
 
 
+
 Sou o arquiteto por trás de interfaces que influenciam decisões, sistemas que escalam e experiências digitais que marcam presença.
 Mais que escrever código, <b>entrego soluções que funcionam, encantam e geram resultado</b>.
 Meu diferencial não está só na técnica, mas na estratégia: atuo com visão de produto, foco em performance e estética refinada.<br/>
