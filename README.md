@@ -2,7 +2,11 @@
   <img src="Harry-Banner.png" alt="GitHub Banner" width="100%" />
 </a>
 
+<div align="center">
+
 # Hello World! I'm Harry, a Full-Stack Developer👋
+
+</div>
 
 <div align="left">
 
