@@ -17,11 +17,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; 👨‍🏫 Criador de conteúdo técnico e mentor de projetos web.<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🎓 Graduando em Análise e Desenvolvimento de Sistemas.</h4>
+&nbsp;&nbsp;&nbsp;&nbsp; 🎓 Graduando em Análise e Desenvolvimento de Sistemas.</h4>&nbsp; 
 
 Sou o arquiteto por trás de interfaces que influenciam decisões, sistemas que escalam e experiências digitais que marcam presença.
 Mais que escrever código, <b>entrego soluções que funcionam, encantam e geram resultado</b>.
-Meu diferencial não está só na técnica, mas na estratégia: atuo com visão de produto, foco em performance e estética refinada.<br/>
+Meu diferencial não está só na técnica, mas na estratégia: atuo com visão de produto, foco em performance e estética refinada.
 
 📩 **Vamos criar algo grandioso?** Entre em contato ou acompanhe meu trabalho nas redes abaixo:
 <br/>
