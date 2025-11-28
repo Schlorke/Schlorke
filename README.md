@@ -4,20 +4,20 @@
 
 # Hello World! I'm Harry, a Full-Stack Developer👋
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="350" valign="middle" style="border: none;">
-      <img src="Harry_Schlorke.gif" alt="GIF" width="350" />
-    </td>
-    <td valign="left" style="border: none;">
-      <p>• 🌐 <b>Acesse meu portfólio: <a href="https://harryschlorke.com">harryschlorke.com</a></b></p>
-      <p>• 🧑‍💻 <b>Desenvolvedor de Software focado em produto, UI e UX.</b></p>
-      <p>• 🏗️ <b>Criador de sistemas com interfaces refinadas e escaláveis</b></p>
-      <p>• 👨‍🏫 <b>Criador de conteúdo técnico e mentor de projetos web.</b></p>
-      <p>• 🎓 <b>Graduando em Análise e Desenvolvimento de Sistemas.</b></p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <img src="Harry_Schlorke.gif" alt="GIF" width="350" />
+
+  <div>
+    <p>• 🌐 <b>Acesse meu portfólio: <a href="https://harryschlorke.com">harryschlorke.com</a></b></p>
+    <p>• 🧑‍💻 <b>Desenvolvedor de Software focado em produto, UI e UX.</b></p>
+    <p>• 🏗️ <b>Criador de sistemas com interfaces refinadas e escaláveis.</b></p>
+    <p>• 👨‍🏫 <b>Criador de conteúdo técnico e mentor de projetos web.</b></p>
+    <p>• 🎓 <b>Graduando em Análise e Desenvolvimento de Sistemas.</b></p>
+  </div>
+
+</div>
+
 
 # 💡About Me
 
