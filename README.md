@@ -29,9 +29,6 @@
 
 </h4>
 
-&nbsp; 
-# 💡About Me
-
 Sou o arquiteto por trás de interfaces que influenciam decisões, sistemas que escalam e experiências digitais que marcam presença.
 Mais que escrever código, **entrego soluções que funcionam, encantam e geram resultado**.
 Meu diferencial não está só na técnica, mas na estratégia: atuo com visão de produto, foco em performance e estética refinada.
