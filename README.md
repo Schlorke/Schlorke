@@ -17,7 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; 👨‍🏫 Criador de conteúdo técnico e mentor de projetos web.<br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🎓 Graduando em Análise e Desenvolvimento de Sistemas.&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+&nbsp;
 
 </h4>
 
