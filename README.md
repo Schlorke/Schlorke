@@ -29,7 +29,7 @@
 
 </h4>
 
-<br clear="left" />
+
 
 # 💡About Me
 
