@@ -15,7 +15,7 @@
 
 </div>
 
-<h3 align="left">
+<h4 align="left">
 
 &nbsp;&nbsp; 🌐 Acesse meu portfólio: [harryschlorke.com](https://harryschlorke.com)<br/>
 
@@ -27,7 +27,7 @@
 
 &nbsp;&nbsp; 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 
-</h3>
+</h4>
 
 <br clear="left" />
 
