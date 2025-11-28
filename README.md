@@ -6,7 +6,7 @@
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="400" valign="middle" style="border: none;">
+    <td width="350" valign="middle" style="border: none;">
       <img src="Harry_Schlorke.gif" alt="GIF" width="350" />
     </td>
     <td valign="left" style="border: none;">
