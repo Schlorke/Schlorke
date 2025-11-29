@@ -8,7 +8,7 @@
   <tr>
     <td width="35%">
       <a href="https://harryschlorke.com" target="_blank">
-        <img src="Harry_Schlorke.gif" alt="GIF" width="315" />
+        <img src="Harry_Schlorke.gif" alt="GIF" width="350" />
       </a>
     </td>
     <td>
