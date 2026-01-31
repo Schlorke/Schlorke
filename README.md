@@ -168,7 +168,7 @@
 
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=Schlorke&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-fork-two.vercel.app/?username=Schlorke&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&title=-Issues)
 
 ---
 
