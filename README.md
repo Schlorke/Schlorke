@@ -49,15 +49,21 @@
 
 <table align="center" width="100%">
 
-  <!-- Linguagens -->
+  <!-- Linguagens & Frameworks -->
   <tr>
-    <th colspan="2" align="center">🧠 Linguagens</th>
+    <th align="center" width="50%">🧠 Linguagens</th>
+    <th align="center" width="50%">📦 Frameworks/bibliotecas</th>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+      <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -162,7 +168,7 @@
 
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=Schlorke&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&title=-Issues)
+![](https://github-profile-trophy.vercel.app/?username=Schlorke&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
