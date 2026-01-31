@@ -52,7 +52,7 @@
   <!-- Linguagens & Frameworks -->
   <tr>
     <th align="center" width="50%">🧠 Linguagens</th>
-    <th align="center" width="50%">📦 Frameworks/bibliotecas</th>
+    <th align="center" width="50%">📦 Frameworks / Bibliotecas</th>
   </tr>
   <tr>
     <td align="center" width="50%">
