@@ -174,13 +174,19 @@
 
 <div align="center">
 
-## 🛡️ TryHackMe Badges
+## 🛡️ TryHackMe
 
 </div>
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/harryschlorke.png)](https://tryhackme.com/p/harryschlorke)
+<a href="https://tryhackme.com/p/harryschlorke" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-harryschlorke-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Rank-Top%2055%25-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Rank" />
+&nbsp;
+<img src="https://img.shields.io/badge/Badge-Introduction%20to%20Security%20Engineering%20%F0%9F%9B%A1%EF%B8%8F-blue?style=for-the-badge" alt="Introduction to Security Engineering" />
 
 </div>
 
