@@ -174,6 +174,20 @@
 
 <div align="center">
 
+## 🛡️ TryHackMe Badges
+
+</div>
+
+<div align="center">
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/harryschlorke.png)](https://tryhackme.com/p/harryschlorke)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🐍 Minhas Contribuições como um Jogo da Cobrinha
 
 </div>
