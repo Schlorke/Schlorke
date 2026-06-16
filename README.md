@@ -177,7 +177,7 @@
 ## 🛡️ TryHackMe
 
 <a href="https://tryhackme.com/p/harryschlorke" target="_blank">
-  <img src="https://raw.githubusercontent.com/Schlorke/Schlorke/main/assets/thm_propic.png" alt="TryHackMe Profile Badge" />
+  <img src="assets/thm_propic.png" alt="TryHackMe Profile Badge" />
 </a>
 
 <br/><br/>
