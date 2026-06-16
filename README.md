@@ -171,34 +171,6 @@
 ![](https://github-profile-trophy-fork-two.vercel.app/?username=Schlorke&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&title=-Issues)
 
 ---
-
-<div align="center">
-
-## 🛡️ TryHackMe
-
-<a href="https://tryhackme.com/p/harryschlorke" target="_blank">
-  <img src="https://raw.githubusercontent.com/Schlorke/Schlorke/main/assets/thm_propic.png" alt="TryHackMe Profile Badge" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/Rank-Top%2035%25-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Rank" />
-
-<br/>
-<!-- Badges conquistadas no TryHackMe -->
-<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Introduction%20to%20Security%20Engineering-Rare%205.7%25-2C5F9E?style=for-the-badge" alt="Introduction to Security Engineering — Rare 5.7%" />
-<img src="https://img.shields.io/badge/%F0%9F%AA%9F%20Blue-Common%2011%25-1F6FEB?style=for-the-badge" alt="Blue — Common 11%" />
-<img src="https://img.shields.io/badge/%E2%9D%84%EF%B8%8F%20Ice-Rare%202.2%25-38BDF8?style=for-the-badge" alt="Ice — Rare 2.2%" />
-
-<br/>
-
-<sup>🔗 Perfil completo: <a href="https://tryhackme.com/p/harryschlorke">tryhackme.com/p/harryschlorke</a></sup>
-
-</div>
-
----
-
 <div align="center">
 
 ## 🐍 Minhas Contribuições como um Jogo da Cobrinha
