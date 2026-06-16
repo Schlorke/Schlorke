@@ -183,9 +183,17 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Rank-Top%2035%25-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Rank" />
-<img src="https://img.shields.io/badge/Badge-Introduction%20to%20Security%20Engineering%20%F0%9F%9B%A1%EF%B8%8F-blue?style=for-the-badge" alt="Introduction to Security Engineering" />
 
-<sup>✨ Badge oficial atualizada diariamente via <a href="https://github.com/marketplace/actions/tryhackme-badge-workflow">TryHackMe Badge Workflow</a></sup>
+<br/><br/>
+
+<!-- Badges conquistadas no TryHackMe -->
+<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Introduction%20to%20Security%20Engineering-Rare%205.7%25-2C5F9E?style=for-the-badge" alt="Introduction to Security Engineering — Rare 5.7%" />
+<img src="https://img.shields.io/badge/%F0%9F%AA%9F%20Blue-Common%2011%25-1F6FEB?style=for-the-badge" alt="Blue — Common 11%" />
+<img src="https://img.shields.io/badge/%E2%9D%84%EF%B8%8F%20Ice-Rare%202.2%25-38BDF8?style=for-the-badge" alt="Ice — Rare 2.2%" />
+
+<br/><br/>
+
+<sup>🔗 Perfil completo: <a href="https://tryhackme.com/p/harryschlorke">tryhackme.com/p/harryschlorke</a></sup>
 
 </div>
 
