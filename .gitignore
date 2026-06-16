@@ -23,4 +23,7 @@ Thumbs.db
 *.log
 npm-debug.log*
 
+# Playwright MCP temp files
+.playwright-mcp/
+
 
