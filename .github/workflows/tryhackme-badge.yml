@@ -1,8 +1,13 @@
 name: TryHackMe Update Badge
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  # Sem agendamento diário de propósito: a geração do badge no TryHackMe está
+  # quebrada (retorna "error while generating"), então rodar sozinho só
+  # arriscaria sobrescrever a imagem boa por uma de erro / mandar e-mail de
+  # falha todo dia. Rode na mão pela aba Actions -> "Run workflow" quando
+  # quiser testar. Pra voltar a rodar diariamente, descomente o bloco abaixo:
+  # schedule:
+  #   - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
