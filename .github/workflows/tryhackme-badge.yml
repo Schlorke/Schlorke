@@ -1,0 +1,26 @@
+name: Update TryHackMe Badge
+
+on:
+  schedule:
+    # Atualiza a badge a cada 6 horas
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update TryHackMe profile badge
+        uses: p4p1/tryhackme-badge-workflow@main
+        with:
+          username: harryschlorke
+          image_path: ./assets/thm_propic.png
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

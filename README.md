@@ -176,23 +176,16 @@
 
 ## 🛡️ TryHackMe
 
-</div>
-
-<div align="center">
-
 <a href="https://tryhackme.com/p/harryschlorke" target="_blank">
-<img src="https://tryhackme-badges.s3.amazonaws.com/harryschlorke.png" alt="TryHackMe Profile Badge" />
+  <img src="https://raw.githubusercontent.com/Schlorke/Schlorke/main/assets/thm_propic.png" alt="TryHackMe Profile Badge" />
 </a>
 
+<br/><br/>
 
-
-<a href="https://tryhackme.com/p/harryschlorke" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-harryschlorke-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
-</a>
-&nbsp;
 <img src="https://img.shields.io/badge/Rank-Top%2035%25-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Rank" />
-&nbsp;
 <img src="https://img.shields.io/badge/Badge-Introduction%20to%20Security%20Engineering%20%F0%9F%9B%A1%EF%B8%8F-blue?style=for-the-badge" alt="Introduction to Security Engineering" />
+
+<sup>✨ Badge atualizada automaticamente a cada 6 horas via <a href="https://github.com/p4p1/tryhackme-badge-workflow">GitHub Actions</a></sup>
 
 </div>
 
