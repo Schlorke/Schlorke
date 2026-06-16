@@ -177,15 +177,26 @@
 ## 🛡️ TryHackMe
 
 <a href="https://tryhackme.com/p/harryschlorke" target="_blank">
-  <img src="assets/thm_propic.png" alt="TryHackMe Profile Badge" />
+  <img src="https://img.shields.io/badge/TryHackMe-harryschlorke-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Perfil TryHackMe de harryschlorke" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Rank-Top%2035%25-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Rank" />
-<img src="https://img.shields.io/badge/Badge-Introduction%20to%20Security%20Engineering%20%F0%9F%9B%A1%EF%B8%8F-blue?style=for-the-badge" alt="Introduction to Security Engineering" />
+<img src="https://img.shields.io/badge/Rank-Top%2035%25-C11111?style=for-the-badge" alt="Rank" />
+<img src="https://img.shields.io/badge/Level-3%20Pathfinder-8957E5?style=for-the-badge" alt="Level" />
+<img src="https://img.shields.io/badge/League-Gold-EBB000?style=for-the-badge" alt="League" />
+<br/>
+<img src="https://img.shields.io/badge/Points-904-2EA043?style=for-the-badge" alt="Points" />
+<img src="https://img.shields.io/badge/Badges-3-1F6FEB?style=for-the-badge" alt="Badges" />
+<img src="https://img.shields.io/badge/Rooms%20Completed-10-DB61A2?style=for-the-badge" alt="Rooms Completed" />
 
-<sup>✨ Badge atualizada automaticamente a cada 6 horas via <a href="https://github.com/p4p1/tryhackme-badge-workflow">GitHub Actions</a></sup>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Introduction%20to%20Security%20Engineering-212C42?style=for-the-badge" alt="Introduction to Security Engineering" />
+
+<br/>
+
+<sub>🔗 Perfil completo e atualizado: <a href="https://tryhackme.com/p/harryschlorke">tryhackme.com/p/harryschlorke</a></sub>
 
 </div>
 
