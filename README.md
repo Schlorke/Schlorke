@@ -15,6 +15,7 @@
       <h4>
         🌐 Acesse meu portfólio: <a href="https://harryschlorke.com" target="_blank">harryschlorke.com</a>
         <br/><br/>
+        🦢 Fundador da <b>Logical Solution</b>.<br/><br/>
         🧑‍💻 Desenvolvedor de Software focado em produto, UI e UX.<br/><br/>
         💻 Criador de sistemas com interfaces refinadas e escaláveis.<br/><br/>
         👨‍🏫 Criador de conteúdo técnico e mentor de projetos web.<br/><br/>
@@ -36,6 +37,42 @@
       <a href="https://x.com/HarrySchlorke" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
       <a href="https://youtube.com/@www.youtube.com/@TI.harryschlorke" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" /></a>
       <a href="mailto:ti@harryschlorke.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<div align="center">
+
+# 🦢 Logical Solution
+
+**Sou o fundador.** A marca não aparece — ela é escrita.
+
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="42%" align="center">
+      <a href="https://github.com/Schlorke/logical-solution-logo" target="_blank">
+        <img src="assets/logical-solution.svg" alt="A marca Logical Solution sendo escrita: o L em cinco traços caligráficos, o cisne chegando e as cinco penas assentando" width="100%" />
+      </a>
+    </td>
+    <td>
+      <h4>
+        ✍️ O <b>L</b> é escrito em cinco traços, na ordem caligráfica — não é um fade, é um gesto.<br/><br/>
+        🦢 O cisne chega com massa e as cinco penas o perseguem em <i>stagger</i>, cada uma articulando a partir da raiz.<br/><br/>
+        🎬 Vira uma intro de <b>4,3 s</b> que atravessa o plano da câmera e revela a página por baixo.<br/><br/>
+        🧩 A coreografia é autorada no <b>Figma</b> e embutida como está: o GSAP não redesenha nada, só escolhe que instante mostrar.
+      </h4>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      A intro completa é <b>open source</b> — SVG + GSAP, sem framework, 35 kB gzip.
+      Máscara com <code>path-trim</code>, animação CSS pausada e controlada por <code>--ls-seek</code>,
+      e uma prova que compara cada <code>d</code> do arquivo gerado com o do Figma, byte a byte.<br/><br/>
+      <a href="https://github.com/Schlorke/logical-solution-logo" target="_blank"><img src="https://img.shields.io/badge/ver%20o%20c%C3%B3digo-047AF3?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" /></a>
+      <a href="https://github.com/Schlorke/logical-solution-logo#a-anima%C3%A7%C3%A3o-vem-do-figma" target="_blank"><img src="https://img.shields.io/badge/como%20funciona-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Como funciona" /></a>
     </td>
   </tr>
 </table>
