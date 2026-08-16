@@ -50,7 +50,7 @@
 
 # Logical Solution
 
-### Lógica que sustenta. Design que convence.
+### Soluções inteligêntes para o seu negócio. Eficiência e elegância nas melhores plataformas.
 
 [![Site](https://img.shields.io/badge/logicalsolution.com.br-047AF3?style=for-the-badge&logoColor=white)](https://logicalsolution.com.br)
 [![Porto Alegre](https://img.shields.io/badge/Porto%20Alegre-RS-1F2937?style=for-the-badge)](https://logicalsolution.com.br)
