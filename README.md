@@ -44,8 +44,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="art/preview-card.svg" />
-  <img src="art/figma-LS_FULL_LOGO_ANIMATION_PREVIEW.svg" width="460" alt="A marca Logical Solution sendo escrita: o L em cinco traços caligráficos, o cisne chegando e as cinco penas assentando" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/logical-solution-card.svg" />
+  <img src="assets/logical-solution.svg" width="460" alt="A marca Logical Solution sendo escrita: o L em cinco traços caligráficos, o cisne chegando e as cinco penas assentando" />
 </picture>
 
 # Logical Solution
