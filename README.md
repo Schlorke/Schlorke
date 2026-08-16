@@ -45,7 +45,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/logical-solution-card.svg" />
-  <img src="assets/logical-solution.svg" width="620" alt="A marca Logical Solution sendo escrita: o L em cinco traços caligráficos, o cisne chegando e as cinco penas assentando" />
+  <img src="assets/logical-solution.svg" width="420" alt="A marca Logical Solution sendo escrita: o L em cinco traços caligráficos, o cisne chegando e as cinco penas assentando" />
 </picture>
 
 # Logical Solution
