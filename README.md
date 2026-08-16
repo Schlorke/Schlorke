@@ -83,33 +83,29 @@ e experiências digitais que marcam presença.
 
 <table align="center" width="100%">
   <tr>
-    <td width="40%" align="center">
-      <a href="https://github.com/Schlorke/logical-solution-logo" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: light)" srcset="assets/logical-solution-card.svg" />
-          <img src="assets/logical-solution.svg" width="100%" alt="A marca Logical Solution sendo escrita" />
-        </picture>
-      </a>
-    </td>
-    <td>
-      <h4>
-        ✍️ O <b>L</b> é escrito em cinco traços, na ordem caligráfica — não é um <i>fade</i>, é um gesto.<br/><br/>
-        🦢 O cisne chega com massa e as cinco penas o perseguem em <i>stagger</i>, cada uma articulando a partir da raiz.<br/><br/>
-        🎬 Vira uma intro de <b>4,3 s</b> que atravessa o plano da câmera e revela a página por baixo.<br/><br/>
-        🧩 A coreografia é autorada no <b>Figma</b> e embutida como está: o GSAP não redesenha nada, só escolhe que instante mostrar.
-      </h4>
-    </td>
+    <th align="center" width="50%">✍️ O gesto</th>
+    <th align="center" width="50%">⚙️ A engenharia</th>
   </tr>
   <tr>
-    <td colspan="2">
-      A intro completa é <b>open source</b>: SVG + GSAP, sem framework, <b>35 kB gzip</b>.
-      Máscara com <code>path-trim</code>, animação CSS pausada e comandada por <code>--ls-seek</code>,
-      e uma prova que compara cada <code>d</code> do arquivo gerado com o do Figma, byte a byte.<br/><br/>
-      <a href="https://github.com/Schlorke/logical-solution-logo" target="_blank"><img src="https://img.shields.io/badge/ver%20o%20c%C3%B3digo-047AF3?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" /></a>
-      <a href="https://github.com/Schlorke/logical-solution-logo#a-anima%C3%A7%C3%A3o-vem-do-figma" target="_blank"><img src="https://img.shields.io/badge/como%20funciona-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Como funciona" /></a>
+    <td width="50%" valign="top">
+      O <b>L</b> é escrito em cinco traços, na ordem caligráfica — não é um <i>fade</i>, é um gesto.<br/><br/>
+      O cisne chega com massa e as cinco penas o perseguem em <i>stagger</i>, cada uma articulando a partir da raiz.<br/><br/>
+      Vira uma intro de <b>4,3 s</b> que atravessa o plano da câmera e revela a página por baixo.
+    </td>
+    <td width="50%" valign="top">
+      A coreografia é autorada no <b>Figma</b> e embutida como está: o GSAP não redesenha nada, só escolhe que instante mostrar.<br/><br/>
+      Máscara com <code>path-trim</code>, animação CSS pausada e comandada por <code>--ls-seek</code>.<br/><br/>
+      SVG + GSAP, sem framework, <b>35 kB gzip</b> — e uma prova que compara cada <code>d</code> do arquivo gerado com o do Figma, byte a byte.
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+<a href="https://github.com/Schlorke/logical-solution-logo" target="_blank"><img src="https://img.shields.io/badge/ver%20o%20c%C3%B3digo-047AF3?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" /></a>
+<a href="https://github.com/Schlorke/logical-solution-logo#a-anima%C3%A7%C3%A3o-vem-do-figma" target="_blank"><img src="https://img.shields.io/badge/como%20funciona-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Como funciona" /></a>
+
+</div>
 
 ---
 
