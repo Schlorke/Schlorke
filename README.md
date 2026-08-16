@@ -45,29 +45,30 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/logical-solution-card.svg" />
-  <img src="assets/logical-solution.svg" width="460" alt="A marca Logical Solution sendo escrita: o L em cinco traços caligráficos, o cisne chegando e as cinco penas assentando" />
+  <img src="assets/logical-solution.svg" width="620" alt="A marca Logical Solution sendo escrita: o L em cinco traços caligráficos, o cisne chegando e as cinco penas assentando" />
 </picture>
 
-# Logical Solution — intro cinematográfica
+# Logical Solution
 
-**A marca não aparece. Ela é escrita.**
+### Lógica que sustenta. Design que convence.
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![GSAP](https://img.shields.io/badge/GSAP-3.15-0AE448?style=flat-square)](https://gsap.com/)
-[![SVG](https://img.shields.io/badge/SVG-mask%20%2B%20path--trim-047AF3?style=flat-square)](https://github.com/Schlorke/logical-solution-logo#o-reveal-do-l)
-[![Figma](https://img.shields.io/badge/Figma-fonte%20da%20anima%C3%A7%C3%A3o-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://github.com/Schlorke/logical-solution-logo#a-anima%C3%A7%C3%A3o-vem-do-figma)
-[![sem framework](https://img.shields.io/badge/framework-nenhum-6B7280?style=flat-square)](https://github.com/Schlorke/logical-solution-logo)
-
-`4,34 s` · `35 kB gzip` · `prefers-reduced-motion`
+[![Site](https://img.shields.io/badge/logicalsolution.com.br-047AF3?style=for-the-badge&logoColor=white)](https://logicalsolution.com.br)
+[![Porto Alegre](https://img.shields.io/badge/Porto%20Alegre-RS-1F2937?style=for-the-badge)](https://logicalsolution.com.br)
 
 <br/>
 
-Sou o **fundador**. O `L` é escrito em cinco traços na ordem caligráfica, o cisne
-chega com massa e as cinco penas o perseguem — uma intro que atravessa o plano da
-câmera e revela a página por baixo. A coreografia é autorada no **Figma** e
-embutida como está: o GSAP não redesenha nada, só escolhe que instante mostrar.
+**Software sob medida, de Porto Alegre — fundado por mim.**
 
-<a href="https://github.com/Schlorke/logical-solution-logo" target="_blank"><img src="https://img.shields.io/badge/ver%20o%20c%C3%B3digo-047AF3?style=for-the-badge&logo=github&logoColor=white" alt="Repositório" /></a>
+Plataformas que o negócio usa todo dia: reservas, locação, CRM, dashboards
+executivos com métrica em tempo real. Interface refinada, alta performance e
+acessibilidade — sobre uma arquitetura feita para crescer junto com a operação.
+
+A exigência é a mesma dos dois lados: não existe tela bonita sustentada por um
+sistema frágil, nem sistema sólido escondido atrás de uma interface que ninguém
+entende. **É por isso que o nome tem as duas palavras.**
+
+<sub>A marca aí em cima não aparece — ela é escrita, traço a traço.
+<a href="https://github.com/Schlorke/logical-solution-logo">O código da intro é aberto</a>.</sub>
 
 </div>
 
