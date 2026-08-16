@@ -1,16 +1,44 @@
 <svg width="1373" height="1145" viewBox="0 0 1373 1145" fill="none" xmlns="http://www.w3.org/2000/svg">
 <style>
+@keyframes kf_Clip_Region_01_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  29.13% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  53.4% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+  }
+  84.47% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+#Clip_Region_01 {
+  animation: kf_Clip_Region_01_opacity_0 10.3s linear infinite;
+}
 @keyframes kf_Reveal_Path_01_Segment_01_path-trim_0 {
   0% {
     stroke-dasharray: 0 1;
     visibility: hidden;
   }
-  16.667% {
+  5.34% {
     animation-timing-function: linear;
     stroke-dasharray: 0 1;
     visibility: hidden;
   }
-  29.018% {
+  9.297% {
+    stroke-dasharray: 1 1;
+    visibility: visible;
+  }
+  32.039% {
     stroke-dasharray: 1 1;
     visibility: visible;
   }
@@ -21,18 +49,22 @@
 }
 #Reveal_Path_01_Segment_01 {
   stroke-dashoffset: 0;
-  animation: kf_Reveal_Path_01_Segment_01_path-trim_0 3.3s linear infinite;
+  animation: kf_Reveal_Path_01_Segment_01_path-trim_0 10.3s linear infinite;
 }
 @keyframes kf_Settle_L_Region_01_opacity_0 {
   0% {
     animation-timing-function: linear;
     opacity: 0;
   }
-  24.78% {
+  7.94% {
     animation-timing-function: ease-out;
     opacity: 0;
   }
-  29.02% {
+  9.3% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  32.04% {
     animation-timing-function: linear;
     opacity: 1;
   }
@@ -41,19 +73,47 @@
   }
 }
 #Settle_L_Region_01 {
-  animation: kf_Settle_L_Region_01_opacity_0 3.3s linear infinite;
+  animation: kf_Settle_L_Region_01_opacity_0 10.3s linear infinite;
+}
+@keyframes kf_Clip_Region_02_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  29.13% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  53.4% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+  }
+  84.47% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+#Clip_Region_02 {
+  animation: kf_Clip_Region_02_opacity_0 10.3s linear infinite;
 }
 @keyframes kf_Reveal_Path_02_Segment_01_path-trim_0 {
   0% {
     stroke-dasharray: 0 1;
     visibility: hidden;
   }
-  29.018% {
+  9.297% {
     animation-timing-function: linear;
     stroke-dasharray: 0 1;
     visibility: hidden;
   }
-  38.811% {
+  12.435% {
+    stroke-dasharray: 1 1;
+    visibility: visible;
+  }
+  32.039% {
     stroke-dasharray: 1 1;
     visibility: visible;
   }
@@ -64,18 +124,22 @@
 }
 #Reveal_Path_02_Segment_01 {
   stroke-dashoffset: 0;
-  animation: kf_Reveal_Path_02_Segment_01_path-trim_0 3.3s linear infinite;
+  animation: kf_Reveal_Path_02_Segment_01_path-trim_0 10.3s linear infinite;
 }
 @keyframes kf_Settle_L_Region_02_opacity_0 {
   0% {
     animation-timing-function: linear;
     opacity: 0;
   }
-  34.57% {
+  11.08% {
     animation-timing-function: ease-out;
     opacity: 0;
   }
-  38.81% {
+  12.43% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  32.04% {
     animation-timing-function: linear;
     opacity: 1;
   }
@@ -84,19 +148,47 @@
   }
 }
 #Settle_L_Region_02 {
-  animation: kf_Settle_L_Region_02_opacity_0 3.3s linear infinite;
+  animation: kf_Settle_L_Region_02_opacity_0 10.3s linear infinite;
+}
+@keyframes kf_Clip_Region_03_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  29.13% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  53.4% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+  }
+  84.47% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+#Clip_Region_03 {
+  animation: kf_Clip_Region_03_opacity_0 10.3s linear infinite;
 }
 @keyframes kf_Reveal_Path_03_Segment_01_path-trim_0 {
   0% {
     stroke-dasharray: 0 1;
     visibility: hidden;
   }
-  38.811% {
+  12.435% {
     animation-timing-function: linear;
     stroke-dasharray: 0 1;
     visibility: hidden;
   }
-  46.672% {
+  14.953% {
+    stroke-dasharray: 1 1;
+    visibility: visible;
+  }
+  32.039% {
     stroke-dasharray: 1 1;
     visibility: visible;
   }
@@ -107,18 +199,22 @@
 }
 #Reveal_Path_03_Segment_01 {
   stroke-dashoffset: 0;
-  animation: kf_Reveal_Path_03_Segment_01_path-trim_0 3.3s linear infinite;
+  animation: kf_Reveal_Path_03_Segment_01_path-trim_0 10.3s linear infinite;
 }
 @keyframes kf_Settle_L_Region_03_opacity_0 {
   0% {
     animation-timing-function: linear;
     opacity: 0;
   }
-  42.43% {
+  13.59% {
     animation-timing-function: ease-out;
     opacity: 0;
   }
-  46.67% {
+  14.95% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  32.04% {
     animation-timing-function: linear;
     opacity: 1;
   }
@@ -127,19 +223,47 @@
   }
 }
 #Settle_L_Region_03 {
-  animation: kf_Settle_L_Region_03_opacity_0 3.3s linear infinite;
+  animation: kf_Settle_L_Region_03_opacity_0 10.3s linear infinite;
+}
+@keyframes kf_Clip_Region_04_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  29.13% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  53.4% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+  }
+  84.47% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+#Clip_Region_04 {
+  animation: kf_Clip_Region_04_opacity_0 10.3s linear infinite;
 }
 @keyframes kf_Reveal_Path_04_Segment_01_path-trim_0 {
   0% {
     stroke-dasharray: 0 1;
     visibility: hidden;
   }
-  46.672% {
+  14.953% {
     animation-timing-function: linear;
     stroke-dasharray: 0 1;
     visibility: hidden;
   }
-  49.081% {
+  15.725% {
+    stroke-dasharray: 1 1;
+    visibility: visible;
+  }
+  32.039% {
     stroke-dasharray: 1 1;
     visibility: visible;
   }
@@ -150,19 +274,23 @@
 }
 #Reveal_Path_04_Segment_01 {
   stroke-dashoffset: 0;
-  animation: kf_Reveal_Path_04_Segment_01_path-trim_0 3.3s linear infinite;
+  animation: kf_Reveal_Path_04_Segment_01_path-trim_0 10.3s linear infinite;
 }
 @keyframes kf_Reveal_Path_04_Segment_02_path-trim_0 {
   0% {
     stroke-dasharray: 0 1;
     visibility: hidden;
   }
-  49.081% {
+  15.725% {
     animation-timing-function: linear;
     stroke-dasharray: 0 1;
     visibility: hidden;
   }
-  77.517% {
+  24.836% {
+    stroke-dasharray: 1 1;
+    visibility: visible;
+  }
+  32.039% {
     stroke-dasharray: 1 1;
     visibility: visible;
   }
@@ -173,26 +301,30 @@
 }
 #Reveal_Path_04_Segment_02 {
   stroke-dashoffset: 0;
-  animation: kf_Reveal_Path_04_Segment_02_path-trim_0 3.3s linear infinite;
+  animation: kf_Reveal_Path_04_Segment_02_path-trim_0 10.3s linear infinite;
 }
 @keyframes kf_Settle_L_Region_04_opacity_0 {
   0% {
     animation-timing-function: linear;
     opacity: 0;
   }
-  46.67% {
+  14.95% {
     animation-timing-function: linear;
     opacity: 0;
   }
-  49.33% {
+  15.81% {
     animation-timing-function: linear;
     opacity: 0;
   }
-  73.75% {
+  23.63% {
     animation-timing-function: ease-out;
     opacity: 0;
   }
-  77.77% {
+  24.92% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  32.04% {
     animation-timing-function: linear;
     opacity: 1;
   }
@@ -201,19 +333,47 @@
   }
 }
 #Settle_L_Region_04 {
-  animation: kf_Settle_L_Region_04_opacity_0 3.3s linear infinite;
+  animation: kf_Settle_L_Region_04_opacity_0 10.3s linear infinite;
+}
+@keyframes kf_Clip_Region_05_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  29.13% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  53.4% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+  }
+  84.47% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+#Clip_Region_05 {
+  animation: kf_Clip_Region_05_opacity_0 10.3s linear infinite;
 }
 @keyframes kf_Reveal_Path_05_Segment_01_path-trim_0 {
   0% {
     stroke-dasharray: 0 1;
     visibility: hidden;
   }
-  82.646% {
+  26.479% {
     animation-timing-function: linear;
     stroke-dasharray: 0 1;
     visibility: hidden;
   }
-  90.909% {
+  29.126% {
+    stroke-dasharray: 1 1;
+    visibility: visible;
+  }
+  32.039% {
     stroke-dasharray: 1 1;
     visibility: visible;
   }
@@ -224,18 +384,22 @@
 }
 #Reveal_Path_05_Segment_01 {
   stroke-dashoffset: 0;
-  animation: kf_Reveal_Path_05_Segment_01_path-trim_0 3.3s linear infinite;
+  animation: kf_Reveal_Path_05_Segment_01_path-trim_0 10.3s linear infinite;
 }
 @keyframes kf_Settle_L_Region_05_opacity_0 {
   0% {
     animation-timing-function: linear;
     opacity: 0;
   }
-  87.27% {
+  27.96% {
     animation-timing-function: ease-out;
     opacity: 0;
   }
-  90.91% {
+  29.13% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  32.04% {
     animation-timing-function: linear;
     opacity: 1;
   }
@@ -244,37 +408,66 @@
   }
 }
 #Settle_L_Region_05 {
-  animation: kf_Settle_L_Region_05_opacity_0 3.3s linear infinite;
+  animation: kf_Settle_L_Region_05_opacity_0 10.3s linear infinite;
 }
 @keyframes kf_Swan_Animated_transform_0 {
   0% {
     animation-timing-function: ease-out;
     transform: translateX(-260px) translateY(150px) translate(686.5px, 572.5px) rotate(0.122rad) scaleX(2.1) scaleY(2.1) translate(-686.5px, -572.5px);
   }
-  33.33% {
+  10.68% {
+    transform: translateX(0px) translateY(0px) translate(686.5px, 572.5px) rotate(0rad) scaleX(1) scaleY(1) translate(-686.5px, -572.5px);
+  }
+  32.04% {
     transform: translateX(0px) translateY(0px) translate(686.5px, 572.5px) rotate(0rad) scaleX(1) scaleY(1) translate(-686.5px, -572.5px);
   }
   100% {
     transform: translateX(0px) translateY(0px) translate(686.5px, 572.5px) rotate(0rad) scaleX(1) scaleY(1) translate(-686.5px, -572.5px);
   }
 }
+@keyframes kf_Swan_Animated_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  29.13% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  53.4% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+  }
+  84.47% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
 #Swan_Animated {
   transform-origin: 0 0;
-  animation: kf_Swan_Animated_transform_0 3.3s linear infinite;
+  animation:
+    kf_Swan_Animated_transform_0 10.3s linear infinite,
+    kf_Swan_Animated_opacity_0 10.3s linear infinite;
 }
 @keyframes kf_Feather_01_transform_0 {
   0% {
     transform: translateX(596.183px) translateY(466.571px) translateX(-1000px) translateY(220px) translate(200.408px, 166.961px) rotate(0.122rad) scaleX(2.2) scaleY(2.2) translate(-200.408px, -166.961px);
   }
-  19.7% {
+  6.31% {
     animation-timing-function: ease-out;
     transform: translateX(596.183px) translateY(466.571px) translateX(-1000px) translateY(220px) translate(200.408px, 166.961px) rotate(0.122rad) scaleX(2.2) scaleY(2.2) translate(-200.408px, -166.961px);
   }
-  27.27% {
+  8.74% {
     animation-timing-function: ease-out;
     transform: translateX(596.183px) translateY(466.571px) translateX(-260px) translateY(80px) translate(200.408px, 166.961px) rotate(0.044rad) scaleX(1.45) scaleY(1.45) translate(-200.408px, -166.961px);
   }
-  34.85% {
+  11.17% {
+    transform: translateX(596.183px) translateY(466.571px) translateX(0px) translateY(0px) translate(200.408px, 166.961px) rotate(0rad) scaleX(1) scaleY(1) translate(-200.408px, -166.961px);
+  }
+  32.04% {
     transform: translateX(596.183px) translateY(466.571px) translateX(0px) translateY(0px) translate(200.408px, 166.961px) rotate(0rad) scaleX(1) scaleY(1) translate(-200.408px, -166.961px);
   }
   100% {
@@ -283,21 +476,24 @@
 }
 #Feather_01 {
   transform-origin: 0 0;
-  animation: kf_Feather_01_transform_0 3.3s linear infinite;
+  animation: kf_Feather_01_transform_0 10.3s linear infinite;
 }
 @keyframes kf_Feather_02_transform_0 {
   0% {
     transform: translateX(567.55px) translateY(615.467px) translateX(-1000px) translateY(220px) translate(210.177px, 105.411px) rotate(0.122rad) scaleX(2.2) scaleY(2.2) translate(-210.177px, -105.411px);
   }
-  24.85% {
+  7.96% {
     animation-timing-function: ease-out;
     transform: translateX(567.55px) translateY(615.467px) translateX(-1000px) translateY(220px) translate(210.177px, 105.411px) rotate(0.122rad) scaleX(2.2) scaleY(2.2) translate(-210.177px, -105.411px);
   }
-  32.42% {
+  10.39% {
     animation-timing-function: ease-out;
     transform: translateX(567.55px) translateY(615.467px) translateX(-260px) translateY(80px) translate(210.177px, 105.411px) rotate(0.044rad) scaleX(1.45) scaleY(1.45) translate(-210.177px, -105.411px);
   }
-  40% {
+  12.82% {
+    transform: translateX(567.55px) translateY(615.467px) translateX(0px) translateY(0px) translate(210.177px, 105.411px) rotate(0rad) scaleX(1) scaleY(1) translate(-210.177px, -105.411px);
+  }
+  32.04% {
     transform: translateX(567.55px) translateY(615.467px) translateX(0px) translateY(0px) translate(210.177px, 105.411px) rotate(0rad) scaleX(1) scaleY(1) translate(-210.177px, -105.411px);
   }
   100% {
@@ -306,21 +502,24 @@
 }
 #Feather_02 {
   transform-origin: 0 0;
-  animation: kf_Feather_02_transform_0 3.3s linear infinite;
+  animation: kf_Feather_02_transform_0 10.3s linear infinite;
 }
 @keyframes kf_Feather_03_transform_0 {
   0% {
     transform: translateX(598.253px) translateY(770px) translateX(-1000px) translateY(220px) translate(192.376px, 46.371px) rotate(0.122rad) scaleX(2.2) scaleY(2.2) translate(-192.376px, -46.371px);
   }
-  30% {
+  9.61% {
     animation-timing-function: ease-out;
     transform: translateX(598.253px) translateY(770px) translateX(-1000px) translateY(220px) translate(192.376px, 46.371px) rotate(0.122rad) scaleX(2.2) scaleY(2.2) translate(-192.376px, -46.371px);
   }
-  37.58% {
+  12.04% {
     animation-timing-function: ease-out;
     transform: translateX(598.253px) translateY(770px) translateX(-260px) translateY(80px) translate(192.376px, 46.371px) rotate(0.044rad) scaleX(1.45) scaleY(1.45) translate(-192.376px, -46.371px);
   }
-  45.15% {
+  14.47% {
+    transform: translateX(598.253px) translateY(770px) translateX(0px) translateY(0px) translate(192.376px, 46.371px) rotate(0rad) scaleX(1) scaleY(1) translate(-192.376px, -46.371px);
+  }
+  32.04% {
     transform: translateX(598.253px) translateY(770px) translateX(0px) translateY(0px) translate(192.376px, 46.371px) rotate(0rad) scaleX(1) scaleY(1) translate(-192.376px, -46.371px);
   }
   100% {
@@ -329,21 +528,24 @@
 }
 #Feather_03 {
   transform-origin: 0 0;
-  animation: kf_Feather_03_transform_0 3.3s linear infinite;
+  animation: kf_Feather_03_transform_0 10.3s linear infinite;
 }
 @keyframes kf_Feather_04_transform_0 {
   0% {
     transform: translateX(915.671px) translateY(593.474px) translateX(-1000px) translateY(220px) translate(144.438px, 179.026px) rotate(0.122rad) scaleX(2.2) scaleY(2.2) translate(-144.438px, -179.026px);
   }
-  35.15% {
+  11.26% {
     animation-timing-function: ease-out;
     transform: translateX(915.671px) translateY(593.474px) translateX(-1000px) translateY(220px) translate(144.438px, 179.026px) rotate(0.122rad) scaleX(2.2) scaleY(2.2) translate(-144.438px, -179.026px);
   }
-  42.73% {
+  13.69% {
     animation-timing-function: ease-out;
     transform: translateX(915.671px) translateY(593.474px) translateX(-260px) translateY(80px) translate(144.438px, 179.026px) rotate(0.044rad) scaleX(1.45) scaleY(1.45) translate(-144.438px, -179.026px);
   }
-  50.3% {
+  16.12% {
+    transform: translateX(915.671px) translateY(593.474px) translateX(0px) translateY(0px) translate(144.438px, 179.026px) rotate(0rad) scaleX(1) scaleY(1) translate(-144.438px, -179.026px);
+  }
+  32.04% {
     transform: translateX(915.671px) translateY(593.474px) translateX(0px) translateY(0px) translate(144.438px, 179.026px) rotate(0rad) scaleX(1) scaleY(1) translate(-144.438px, -179.026px);
   }
   100% {
@@ -352,21 +554,24 @@
 }
 #Feather_04 {
   transform-origin: 0 0;
-  animation: kf_Feather_04_transform_0 3.3s linear infinite;
+  animation: kf_Feather_04_transform_0 10.3s linear infinite;
 }
 @keyframes kf_Feather_05_transform_0 {
   0% {
     transform: translateX(757.5px) translateY(844.773px) translateX(-1000px) translateY(220px) translate(111.496px, 38.09px) rotate(0.122rad) scaleX(2.2) scaleY(2.2) translate(-111.496px, -38.09px);
   }
-  40.3% {
+  12.91% {
     animation-timing-function: ease-out;
     transform: translateX(757.5px) translateY(844.773px) translateX(-1000px) translateY(220px) translate(111.496px, 38.09px) rotate(0.122rad) scaleX(2.2) scaleY(2.2) translate(-111.496px, -38.09px);
   }
-  47.88% {
+  15.34% {
     animation-timing-function: ease-out;
     transform: translateX(757.5px) translateY(844.773px) translateX(-260px) translateY(80px) translate(111.496px, 38.09px) rotate(0.044rad) scaleX(1.45) scaleY(1.45) translate(-111.496px, -38.09px);
   }
-  55.45% {
+  17.77% {
+    transform: translateX(757.5px) translateY(844.773px) translateX(0px) translateY(0px) translate(111.496px, 38.09px) rotate(0rad) scaleX(1) scaleY(1) translate(-111.496px, -38.09px);
+  }
+  32.04% {
     transform: translateX(757.5px) translateY(844.773px) translateX(0px) translateY(0px) translate(111.496px, 38.09px) rotate(0rad) scaleX(1) scaleY(1) translate(-111.496px, -38.09px);
   }
   100% {
@@ -375,7 +580,7 @@
 }
 #Feather_05 {
   transform-origin: 0 0;
-  animation: kf_Feather_05_transform_0 3.3s linear infinite;
+  animation: kf_Feather_05_transform_0 10.3s linear infinite;
 }
 </style>
 <g id="LS_FULL_LOGO_ANIMATION_PREVIEW" clip-path="url(#clip0_95_2)">
@@ -454,42 +659,42 @@
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="0" result="effect1_foregroundBlur_95_2">
-<animate attributeName="stdDeviation" values="15; 0; 0" keyTimes="0; 0.3333; 1" keySplines="0 0 0.58 1; 0 0 1 1" dur="3.3s" calcMode="spline" repeatCount="indefinite" />
+<animate attributeName="stdDeviation" values="15; 0; 0; 0" keyTimes="0; 0.1068; 0.3204; 1" keySplines="0 0 0.58 1; 0 0 1 1; 0 0 1 1" dur="10.3s" calcMode="spline" repeatCount="indefinite" />
 </feGaussianBlur>
 </filter>
 <filter id="filter1_f_95_2" x="-30" y="-30" width="460.817" height="393.923" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="0" result="effect1_foregroundBlur_95_2">
-<animate attributeName="stdDeviation" values="15; 15; 6; 0; 0" keyTimes="0; 0.197; 0.2727; 0.3485; 1" keySplines="0 0 1 1; 0 0 0.58 1; 0 0 0.58 1; 0 0 1 1" dur="3.3s" calcMode="spline" repeatCount="indefinite" />
+<animate attributeName="stdDeviation" values="15; 15; 6; 0; 0; 0" keyTimes="0; 0.0631; 0.0874; 0.1117; 0.3204; 1" keySplines="0 0 1 1; 0 0 0.58 1; 0 0 0.58 1; 0 0 1 1; 0 0 1 1" dur="10.3s" calcMode="spline" repeatCount="indefinite" />
 </feGaussianBlur>
 </filter>
 <filter id="filter2_f_95_2" x="-30" y="-30" width="480.354" height="270.822" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="0" result="effect1_foregroundBlur_95_2">
-<animate attributeName="stdDeviation" values="15; 15; 6; 0; 0" keyTimes="0; 0.2485; 0.3242; 0.4; 1" keySplines="0 0 1 1; 0 0 0.58 1; 0 0 0.58 1; 0 0 1 1" dur="3.3s" calcMode="spline" repeatCount="indefinite" />
+<animate attributeName="stdDeviation" values="15; 15; 6; 0; 0; 0" keyTimes="0; 0.0796; 0.1039; 0.1282; 0.3204; 1" keySplines="0 0 1 1; 0 0 0.58 1; 0 0 0.58 1; 0 0 1 1; 0 0 1 1" dur="10.3s" calcMode="spline" repeatCount="indefinite" />
 </feGaussianBlur>
 </filter>
 <filter id="filter3_f_95_2" x="-30" y="-30" width="444.753" height="152.741" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="0" result="effect1_foregroundBlur_95_2">
-<animate attributeName="stdDeviation" values="15; 15; 6; 0; 0" keyTimes="0; 0.3; 0.3758; 0.4515; 1" keySplines="0 0 1 1; 0 0 0.58 1; 0 0 0.58 1; 0 0 1 1" dur="3.3s" calcMode="spline" repeatCount="indefinite" />
+<animate attributeName="stdDeviation" values="15; 15; 6; 0; 0; 0" keyTimes="0; 0.0961; 0.1204; 0.1447; 0.3204; 1" keySplines="0 0 1 1; 0 0 0.58 1; 0 0 0.58 1; 0 0 1 1; 0 0 1 1" dur="10.3s" calcMode="spline" repeatCount="indefinite" />
 </feGaussianBlur>
 </filter>
 <filter id="filter4_f_95_2" x="-30" y="-30" width="348.876" height="418.051" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="0" result="effect1_foregroundBlur_95_2">
-<animate attributeName="stdDeviation" values="15; 15; 6; 0; 0" keyTimes="0; 0.3515; 0.4273; 0.503; 1" keySplines="0 0 1 1; 0 0 0.58 1; 0 0 0.58 1; 0 0 1 1" dur="3.3s" calcMode="spline" repeatCount="indefinite" />
+<animate attributeName="stdDeviation" values="15; 15; 6; 0; 0; 0" keyTimes="0; 0.1126; 0.1369; 0.1612; 0.3204; 1" keySplines="0 0 1 1; 0 0 0.58 1; 0 0 0.58 1; 0 0 1 1; 0 0 1 1" dur="10.3s" calcMode="spline" repeatCount="indefinite" />
 </feGaussianBlur>
 </filter>
 <filter id="filter5_f_95_2" x="-30" y="-30" width="282.991" height="136.18" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="0" result="effect1_foregroundBlur_95_2">
-<animate attributeName="stdDeviation" values="15; 15; 6; 0; 0" keyTimes="0; 0.403; 0.4788; 0.5545; 1" keySplines="0 0 1 1; 0 0 0.58 1; 0 0 0.58 1; 0 0 1 1" dur="3.3s" calcMode="spline" repeatCount="indefinite" />
+<animate attributeName="stdDeviation" values="15; 15; 6; 0; 0; 0" keyTimes="0; 0.1291; 0.1534; 0.1777; 0.3204; 1" keySplines="0 0 1 1; 0 0 0.58 1; 0 0 0.58 1; 0 0 1 1; 0 0 1 1" dur="10.3s" calcMode="spline" repeatCount="indefinite" />
 </feGaussianBlur>
 </filter>
 <linearGradient id="paint0_linear_95_2" x1="0" y1="0" x2="663.11" y2="354.271" gradientUnits="userSpaceOnUse">
